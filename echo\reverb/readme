@@ -1,0 +1,9 @@
+This build was my fifth guitar pedal design, and for this project I wanted to take things a step further —  
+it was the first time I designed a PCB from scratch.
+
+The circuit is based on the PT2399 chip, which is a digital delay IC. My design improves on the reference circuit provided by the chip manufacturer in the PT2399 datasheet.
+My design allows the user to control two parameters : delay time and repetitions. Also to improve sound quality I added input and output buffers and made changes to the sound filtering.
+
+For this project I share;
+- PCB design
+- Schematic
