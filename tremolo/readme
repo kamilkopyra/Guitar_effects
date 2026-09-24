@@ -1,9 +1,0 @@
-The tremolo pedal was my second build, but the first one designed 100% by myself. 
-Tremolo is a way of modulating volume.
-In order to achieve it I used two transistors and with the help of a capacitor connected between them I created a simple LFO circuit that controlled the brightness of an LED.
-Then I used a photoresistor to which i connected the LED in a black tube, so that now the photoresistor would create variable voltage drops.
-This project was also the first time that i designed the pedal enclosure and 3D printed it.
-Unfortunately, I was to lazy to make the schematic, so in this project I only share:
-- 3D model files
-- sound demo
-- bulid demo
