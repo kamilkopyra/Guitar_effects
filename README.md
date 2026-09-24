@@ -1,3 +1,5 @@
+Archive repo where I shared my start in the audio-electronics world
+
 # Guitar effects
 
 This repository documents my personal journey into guitar and audio electronics — designing, prototyping, and refining analog and digital effects.
